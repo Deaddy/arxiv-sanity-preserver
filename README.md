@@ -5,6 +5,14 @@ This project is a web interface that attempts to tame the overwhelming flood of 
 
 ![user interface](https://raw.github.com/karpathy/arxiv-sanity-preserver/master/ui.jpeg)
 
+### about this fork
+I only do the necessary fixes to run it as a frontend to arxiv for myself.
+Feel free to submit bug reports. I do not plan to continue any multiuser
+support, so if anything of that does not work, I do not care.
+
+I also run it on a kubernetes cluster, so there might be changes to make it
+more cloud native.
+
 ### Code layout
 
 There are two large parts of the code:
